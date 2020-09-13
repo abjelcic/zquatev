@@ -6,7 +6,7 @@ c jasno, treba imat OpenBLAS, LAPACK i GFortran instalirane....
       implicit none;
 
       integer n,i,j,k,l;
-      parameter( n = 8000 );
+      parameter( n = 6000 );
 
       double precision A(n,n);
       double precision B(n,n);
