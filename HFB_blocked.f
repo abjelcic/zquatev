@@ -1,6 +1,5 @@
 
         !abjelcic@phy.hr za bugove
-        !staviti i u dirhb ispis kod runa "if the code fails report to abjelcic@phy.hr, i am the responsible person"
         !provjeri sa flagovima jel se negdje gazi po memoriji
         !provjeri sa puno nxn random matirca tako da n bude svakakav broj, i za svakave bsize testiraj isto
         !napisat lapack-style input/output argumente sta su
